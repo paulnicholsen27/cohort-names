@@ -3,7 +3,8 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
-| DC SE 060120 | ??? |
+| DC SE 071320 | ??? |
+| DC SE 060120 | 2 Commit 2 Git |
 | DC SE 042020 | Cheeky Gits |
 | DC SE 032020 | {browns}
 | DC SE 012720 | Live Fast Pry Young
